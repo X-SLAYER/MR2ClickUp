@@ -14,7 +14,7 @@
         
 2. **Install the Script**:
     
-    -  [Click Here and Press Install](mr-2-clickup?raw=True).
+    -  [Click Here and Press Install](mr-2-clickup.js?raw=True).
         
     - Click **Install** in the Tampermonkey prompt.
         
